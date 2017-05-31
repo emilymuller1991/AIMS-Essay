@@ -4,6 +4,8 @@ The files contained in this repository constitute the social network analysis ca
 
 The files in the repository are described below:
 
+Please note, I have removed the files 1) and 2) since I did not obtain consent from participants to host online. Please contact me if you wish to have access to the dataset (emily@aims.ac.za). 
+
 1) DecemberCut.csv
 This file contains the AIMS 2016/17 social network data for observation period December. The file codes individuals as numerics 0:41. For each individual, the file contains; County of Origin, Field of Study, Sex, Language, Appointed Supervisor and friendship nominations. The number of friendship nominations is between 0:8.
 
